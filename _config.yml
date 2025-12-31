@@ -1,6 +1,6 @@
 theme: minima
-title: My Blog
-description: Thoughts, tutorials, and ideas
+title: Nasri Anis Blog
+description: "Email: nasrianis213@gmail.com"
 future: true
 plugins:
   - jekyll-remote-theme
